@@ -1,7 +1,6 @@
 # codecdn
 
-首先通过jsdeliver托管此仓库
-然后
+首先通过jsdeliver托管此仓库，然后
 >1.在github上新建仓库xxx,如我的仓库名：codecdn （仓库必须是公开的）
 
 >2.把资源文件上传到git仓库 （文件不大于20M）
