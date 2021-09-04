@@ -6,3 +6,5 @@
 >2.把资源文件上传到git仓库 （文件不大于20M）
 
 >3.通过https://cdn.jsdelivr.net/gh/用户名/仓库名称@分支名称/文件路径
+
+>4.例如：https://cdn.jsdelivr.net/gh/xs2021/codecdn@main/cursor.js
